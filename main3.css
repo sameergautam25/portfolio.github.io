@@ -1,0 +1,28 @@
+body{
+background-image:url(contacts.jpg);
+background-image:size=300;
+background-repeat:no-repeat;
+background-size:1550px 800px;}
+h1{text-align:center;
+text-decoration:underline;
+font-style:italic;}
+li{
+font-size:25px;
+line-height:4em;
+margin-bottom:20px;
+}
+.topnav {
+    background-color: black;
+    overflow: hidden;
+}
+.topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;}
+.topnav a:hover {
+    background-color: green;
+    color: white;
+}

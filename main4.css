@@ -1,0 +1,32 @@
+body{
+background-image:url(myphoto.jpg), url(open.jpg);
+background-image:size=300;
+background-repeat:no-repeat;
+background-size:300px 300px , 1550px 1000px;
+background-position: 1000 100px, 0 0px;}
+h1{text-align:center;
+text-decoration:underline;
+font-style:italic;}
+p{
+font-style: italic;
+color:"purple";
+font-size:40px;
+line-height:4em;
+margin-bottom:90px;
+}
+li{font-size:20px;}
+.topnav {
+    background-color: black;
+    overflow: hidden;
+}
+.topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;}
+.topnav a:hover {
+    background-color: green;
+    color: white;
+}
